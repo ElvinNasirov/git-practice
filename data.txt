@@ -1,3 +1,3 @@
 name: elvin
 age: 20
-favorite color: ?
+favorite color: red
